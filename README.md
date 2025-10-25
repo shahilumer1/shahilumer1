@@ -63,9 +63,10 @@
 
 ## 📊 GitHub Analytics
 
-![Ummar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ummarfarookshahil&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ummarfarookshahil&layout=compact&theme=radical)
-![Ummar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ummarfarookshahil&theme=react-dark)
+![Shahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahilumer1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahilumer1&layout=compact&theme=radical)
+![Shahil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahilumer1&theme=react-dark)
+
 
 ---
 
