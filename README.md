@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahilumer1/shahilumer1/main/assest/SHAHIL.jpg" 
+  <img src="https://raw.githubusercontent.com/shahilumer1/shahilumer1/main/assest/shahil.jpg" 
        alt="Profile Picture" 
        width="300" 
        style="border-radius: 100px 100px 0 0; 
