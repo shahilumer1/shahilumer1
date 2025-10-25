@@ -1,10 +1,12 @@
-<!-- Profile Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/shahilumer1/shahilumer1/main/assest/shahil.jpg" 
        alt="Profile Picture" 
        width="200" 
-       style="border-radius: 50%;"/>
+       style="border-radius: 100px 100px 0 0; 
+              box-shadow: 0 0 10px rgba(0,0,0,0.3); 
+              border: 3px solid #fff;"/>
 </p>
+
 
 # 👋 Hey there, I'm Ummar Farook Shahil!
 
