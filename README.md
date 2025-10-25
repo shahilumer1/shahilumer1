@@ -1,5 +1,5 @@
 <!-- Profile Banner (Optional — you can replace this link with your own banner) -->
-![Banner](https://i.imgur.com/zYxDCQT.png)
+![Banner](https://i.imgur.com/shahil.png)
 
 # 👋 Hey there, I'm Ummar Farook Shahil!
 
