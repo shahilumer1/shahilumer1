@@ -1,6 +1,10 @@
-<!-- Profile Banner -->
-![Banner](https://raw.githubusercontent.com/shahilumer1/shahilumer1/main/assest/shahil.jpg)
-
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shahilumer1/shahilumer1/main/assest/shahil.jpg" 
+       alt="Profile Picture" 
+       width="200" 
+       style="border-radius: 50%;"/>
+</p>
 
 # 👋 Hey there, I'm Ummar Farook Shahil!
 
