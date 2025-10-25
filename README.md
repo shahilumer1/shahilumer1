@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shahilumer1/shahilumer1/main/assest/SHAHIL.jpg" 
        alt="Profile Picture" 
-       width="500" 
+       width="300" 
        style="border-radius: 100px 100px 0 0; 
               box-shadow: 0 0 10px rgba(0,0,0,0.3); 
               border: 3px solid #fff;"/>
