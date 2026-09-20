@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hey there, I'm Ummar Farook Shahil 👋</h1>
-<p align="center">AI & ML Engineer · Data Analyst · ESG Advisory Intern @ KPMG</p>
+<p align="center">AI & ML Engineer · Data Analyst · EX - ESG Advisory Intern @ KPMG</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ummar-farook-shahil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -21,7 +21,7 @@
 ### 🎯 About Me
 
 - 🎓 B.E. in **Artificial Intelligence and Machine Learning**, P.A. College of Engineering, Mangalore (CGPA 8.4, 2022–2026)
-- 💼 Currently an **Analyst Intern — ESG Advisory** at **KPMG, Bangalore**, working on sustainability data, reporting, and regulatory compliance support
+- 💼 Currently an **EX - Analyst Intern — ESG Advisory** at **KPMG, Bangalore**, working on sustainability data, reporting, and regulatory compliance support
 - 🤖 Previously built ML prototypes as an **AI Intern at Edutainer**, and trained in platform administration through **ServiceNow Administration Fundamentals**
 - 🔬 Published research: *Smart Indoor Plant Care System* at **IEEE & PACE ICEST 2025**
 - 🏆 Certified: **Harvard CS50**, **Stanford Machine Learning**, **Oracle Cloud Infrastructure Data Science Professional**
